@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(4/19/2017)
 
 ### Student Name:  
-(First and Last Name)
+(Ayanna Chukes)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This lesson was about how to use API information along with Ajax and JSON data to make a weather application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://preview.c9users.io/ayanna0103/chukes_weatherchannel/ExtraCredit_L9_Assignment_StudentCode/index.html?_c9_id=livepreview1&_c9_host=https://ide.c9.io)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned that an API- Centric web applicatation makes most of the functions happen through API calls.)
+2. (I learned that API keys are used to keep track of and manipulate how the API is used.)
+3. (I also learned that each DOM element has a JSON key that retrieves response data from a API server and is usually found in the JavaScript application. )
